@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Let's Go to the vacation!!</title>
+    <style>
+        body{
+            background-image: url("dark_embroidery.png");
+        }
+        h1{
+            font-family: Impact;
+            font-size: 50px;
+            color: #ff0000;
+        }
+        h2{
+            font-family: "Arial Black", sans-serif;
+            font-size: 20px;
+            color: #fff;
+            background-color: #000;
+        }
+        p{
+            font-family: Century Gothic;
+            font-size: 12px;
+            background-color: #000
+            color: #ff0000;
+        }      
+    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <!-- custom css -->
+    <link rel="stylesheet" href="custom.css">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="col1" style="background-color: #000; color: #ffffff">
+                    <h1>New York City</h1>
+                    <img src="GC.jpg" alt="Grand Central Station" style="width:100%;">
+                </div>
+                    <h2>How to go there?</h2>
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="col2" style="background-color: #000; color: #ffffff">
+                        <img src="Bus.jpg" alt="Taking a bus" style="width:100%;">
+                        <p>Lorem  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="col2" style="background-color: #000; color: #ffffff">
+                        <img src="Bus2.jpg" alt="Taking another bus" style="width:100%;">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="col2" style="background-color: #000; color: #ffffff">
+                        <img src="Boat.jpg" alt="Taking a boat" style="width:100%;">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</body>
+
+</html>
